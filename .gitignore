@@ -1,0 +1,22 @@
+# Java
+/backend/bin/
+/backend/lib/*.jar
+*.class
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.log
+
+# SQL Server
+/database/*.ps1
+!/database/schema.sql
