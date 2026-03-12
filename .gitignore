@@ -1,4 +1,6 @@
 # Java
+target/
+/backend/target/
 /backend/bin/
 /backend/lib/*.jar
 *.class
